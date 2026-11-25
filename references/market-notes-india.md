@@ -60,6 +60,30 @@ tricolour was not answered by any source. A sensible working rule (inference): t
 is real with an orange-leaning terracotta in equal horizontal bands, and low with a
 brown-leaning clay in unequal proportions. Test it on people rather than assuming.
 
+## What was on a finance home screen (November 2026)
+
+A worked example of Brief 1. Icons were viewed on the App Store on 25 November 2026.
+This goes stale quickly: re-run the brief before relying on it.
+
+- **Purple is the most crowded hue**: PhonePe, Upstox, Navi, Jar, YONO SBI, with
+  super.money in indigo.
+- **Blue**: Paytm, HDFC Bank.
+- **White tiles carrying a coloured mark**: Google Pay, BHIM, Groww, Zerodha Kite, Fold,
+  Moneyview, ICICI iMobile.
+- **Black**: CRED, INDmoney, ET Money.
+- **Red, coral, magenta**: Jupiter (coral), Kotak811, Axis.
+- **Yellow-gold**: Gullak only.
+- **Empty**: terracotta or clay brown. Very dark green is unused as a full tile, though
+  one app uses it as a large disc on white.
+- **Pictograms**: literal saving imagery is rare. One app shows a coin dropping into a
+  jar. No clay pot, piggy bank, safe, wallet or rupee sign appeared in the set; the app
+  named after the clay pot uses a letter, not the picture.
+- **Cliches**: purple tiles, a white letter or wordmark on a flat colour, up-arrows and
+  chart lines, black "premium" tiles.
+- **Stacked-layer marks to avoid resembling**: Buffer (a diamond over two chevron bands)
+  and Databricks; in the category itself, BHIM's overlapping chevrons and Zerodha Kite's
+  folded kite.
+
 ## What to lean on, what to avoid
 
 - Lean on: gold for wealth, green for gain and growth, red for the auspicious ledger.
