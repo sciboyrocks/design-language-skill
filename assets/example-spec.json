@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "name": "0 incumbent: dot",
+      "svg": "<circle cx='50' cy='50' r='26' fill='{a}'/>",
+      "palettes": {
+        "default": {"bg": "#F3EFE5", "a": "#1F3A5F"},
+        "dark": {"bg": "#1C1B1A", "a": "#9DB7DD"}
+      }
+    },
+    {
+      "name": "1 two bars",
+      "svg": "<rect x='22' y='30' width='56' height='16' rx='8' fill='{a}'/><rect x='22' y='54' width='38' height='16' rx='8' fill='{b}'/>",
+      "palettes": {
+        "default": {"bg": "#1F3A5F", "a": "#F3EFE5", "b": "#E9A23B"},
+        "dark": {"bg": "#1C1B1A", "a": "#E7E5E1", "b": "#E9A23B"}
+      }
+    },
+    {
+      "name": "2 clipped disc",
+      "svg": "<clipPath id='{id}'><rect x='0' y='0' width='100' height='62'/></clipPath><circle cx='50' cy='52' r='24' fill='{a}' clip-path='url(#{id})'/><rect x='20' y='66' width='60' height='10' rx='5' fill='{b}'/>",
+      "palettes": {
+        "default": {"bg": "#E9A23B", "a": "#FFF8EA", "b": "#3B2507"}
+      }
+    }
+  ],
+  "neighbours": ["#5F259F", "#00BAF2", "#00B386", "#0B0B0B", "#FFFFFF", "#E23744"]
+}
